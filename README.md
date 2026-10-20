@@ -3,7 +3,7 @@
 
 Nama: Ayu Syarifatu Zahra  
 NIM: 2225250043  
-Kelas: ...
+Kelas: 3B
 
 ## Tujuan
 
